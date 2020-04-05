@@ -1,6 +1,6 @@
 id="plugin.program.stva"
 version="3.7"
-zip="https://stva.zriel.net/plugin.program.stva.zip"
+zip="https://edarment.github.io/kodiED/plugin.program.stva.zip"
 
 name="BASE AURA"
 version="1.0"
@@ -52,7 +52,7 @@ fanart="https://stva.zriel.net/wizard/imagenes/f2.png"
 preview=""
 adult="No"
 info="http://"
-description="Base STVA con peliculas, series, television y deportes"
+description="Kodi con peliculas, series"
 
 name="PARCHE Cambios ARCTIC"
 version="3.0.3"
