@@ -43,7 +43,7 @@ description="Parche Latino Aura que cambia el pais y el idioma para peliculas y 
 
 name="BASE ARCTIC"
 version="3.0"
-url="https://www.dropbox.com/s/sjxhb4ngkewlnw0/eduardo.zip?dl=1"
+url="https://www.dropbox.com/s/m4x4ekczs9yx95e/stva-build.zip?dl=1"
 gui=""
 kodi="18"
 theme="http://"
