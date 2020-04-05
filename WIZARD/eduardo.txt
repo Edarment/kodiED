@@ -1,11 +1,11 @@
 id="plugin.program.kodied"
-version="3.7"
+version="1.0"
 zip="https://edarment.github.io/kodiED/plugin.program.kodied.zip"
 
 
 name="kodiED"
-version="3.0"
-url="https://www.dropbox.com/s/m4x4ekczs9yx95e/stva-build.zip?dl=1"
+version="1.0"
+url="https://www.dropbox.com/s/n24xs54ef4ifhfg/kodied.zip?dl=1"
 gui=""
 kodi="18"
 theme="http://"
